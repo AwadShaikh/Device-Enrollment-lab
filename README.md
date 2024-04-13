@@ -16,23 +16,23 @@ Microsoft Intune
 
 <p align="center">
 Configuring push certificate and downloading CSR which will be used to get certificate from apple for an iphone : <br/>
-<img src="https://imgur.com/kHKBPRr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/kHKBPRr.png" height="90%" width="90%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Uploading CSR to apples portal to optain apple push certificate for our iphone :  <br/>: <br/
-<img src="https://imgur.com/LfQJHCy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/LfQJHCy.png" height="90%" width="90%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Uploading Push certificate optained from apple into Intune to enrole iphone <br/>
-<img src="https://imgur.com/4UVP9a5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/4UVP9a5.png" height="90%" width="90%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Successfully enrolled iphone into Intune:  <br/>
-<img src="https://imgur.com/qE6Azqu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/qE6Azqu.png" height="90%" width="90%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Checking the overview of the enrolled iphone we can perform many options from overview menu such as remote wipe, remote lock , retire and remove passcode :  <br/>
-<img src="https://imgur.com/YWvHFiu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/YWvHFiu.png" height="90%" width="90%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 <br />
